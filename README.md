@@ -28,7 +28,9 @@ La finalidad del ejercicio es poder poner en prática todo lo aprendido sobre **
 - En las siguientes fases he recorrido el archivo por columnas, evaluando la mejor manera de extraer la mayor cantidad de datos en función del contenido, el tipo de dato y la utilidad que nos podría proporcionar para futuras visualizaciones. 
 - Este proceso está documentado en:
 > [`clean.ipynb`](1_clean.ipynb) archivo comentado con el proceso de limpieza.
+>
 > [`cleaning_functions.py`](src/cleaning_functions.py) funciones creadas ***ad hoc*** para la limpieza y extracción.
+>
 > [`attack_limpio.csv`](data/attack_limpio.csv) archivo obtenido en el último paso una vez llevada a cabo la limpieza.
 
 **2. Análisis:**
@@ -36,6 +38,7 @@ La finalidad del ejercicio es poder poner en prática todo lo aprendido sobre **
 apoyar de manera visual las conclusiones.
 - Este proceso está documentado en:
 > [`analysis.ipynb`](2_analysis.ipynb) archivo que incluye tanto los grafos como los conclusiones obtenidas del estudio.
+>
 > [`/figures`](/figures) en esta carpeta se han exportado también los gráficos presentados en el estudio.
 
 ## TECNOLOGY STACK:
