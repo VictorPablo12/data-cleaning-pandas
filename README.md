@@ -1,5 +1,5 @@
 # Data Cleaning with Pandas
-[My_project](/readme/My_project.jpg)
+![My_project](/readme/My_project.jpg)
 
 ## INTRO:
 Para este proyecto, partimos de la base de datos facilitada, que está disponible aquí: 
