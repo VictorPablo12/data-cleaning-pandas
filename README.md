@@ -42,7 +42,7 @@ apoyar de manera visual las conclusiones.
 > [`/figures`](/figures) en esta carpeta se han exportado también los gráficos presentados en el estudio.
 
 ## TECNOLOGY STACK:
-* [Nunpy](https://numpy.org/doc/1.18/) Pyhton library
+* [Numpy](https://numpy.org/doc/1.18/) Pyhton library
 * [Pandas](https://pandas.pydata.org/) Pyhton library
 * [Seaborn](https://seaborn.pydata.org/) Pyhton library
 * [Maplotlib](https://matplotlib.org/) Pyhton library
