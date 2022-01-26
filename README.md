@@ -31,7 +31,7 @@ La finalidad del ejercicio es poder poner en prática todo lo aprendido sobre **
 >
 > [`cleaning_functions.py`](src/cleaning_functions.py) funciones creadas ***ad hoc*** para la limpieza y extracción.
 >
-> [`attack_limpio.csv`](data/attack_limpio.csv) archivo obtenido en el último paso una vez llevada a cabo la limpieza.
+> [`attack_limpio.csv`](src/attack_limpio.csv) archivo obtenido en el último paso una vez llevada a cabo la limpieza.
 
 **2. Análisis:**
 - Una vez obtenido el archivo **limpio** se han realizado varias gráficas, apoyándome en distintas librerías, para poder 
