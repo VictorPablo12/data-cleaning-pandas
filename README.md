@@ -2,7 +2,7 @@
 ![My_project](/readme/My_project.jpg)
 
 ## INTRO:
-Para este proyecto, partimos de la base de datos facilitada, que está disponible aquí: 
+Para este proyecto, partimos de la base de datos facilitada, que está disponible en 
 [Global Shark Attacks 📚](https://www.kaggle.com/teajay/global-shark-attacks)      
 
 ## OBJETIVO:
