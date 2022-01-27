@@ -81,6 +81,8 @@ paises = pd.read_csv(ruta,encoding='utf-8')
 
 lista_paises = paises[" name"].tolist()
 def paises (string):
+    """"La funcion recorre la lista de países importada y va comparando conteido de la columna Country
+    con el de países que se encuentra en data"""
     if string!=string:
         return np.nan
     string = str(string).lower().title().strip()
