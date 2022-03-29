@@ -1,7 +1,7 @@
 import re
 import numpy as np
 import pandas as pd
-ruta = '/mnt/c/Users/victo/OneDrive/Escritorio/Data/Ironhack/data-cleaning-pandas/src/paises.csv' # Ruta excell cogido de Githun para limpiar paises de lista dada 
+ruta = '/home/vp/Escritorio/Data/data-cleaning-pandas/src/paises.csv' # Ruta excell cogido de Githun para limpiar paises de lista dada 
 
 def BC(string):
     """Mira en la cadena que le pasemos (pensado para el contenido de lddf.Date) nos va a devolver 0 
