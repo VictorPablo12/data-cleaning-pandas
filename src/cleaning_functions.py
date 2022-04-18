@@ -4,7 +4,7 @@ import pandas as pd
 ruta = '/home/vp/Escritorio/Data/data-cleaning-pandas/src/paises.csv' # Ruta excell cogido de Githun para limpiar paises de lista dada 
 
 def BC(string):
-    """Mira en la cadena que le pasemos (pensado para el contenido de lddf.Date) nos va a devolver 0 
+    """Mira en la cadena que le pasemos (pensado para el contenido de df.Date) nos va a devolver 0 
     en caso de que encuentre dentro de la cadena algo del tipo BC ó bc, para luego esos CEROS, convertirlos a null
     en nuestro df sobre el que vamos a graficar """
     try:
